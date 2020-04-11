@@ -1,0 +1,14 @@
+begin 
+var x : integer;
+var y : real;
+var z : float;
+print "This is Rohini";
+x := 4+8*6 ;
+y := 15.6;
+z := 5.67;
+if x>=50 then
+ y := y*1.23e-1;
+ else
+ z := z/5;
+end if
+end
