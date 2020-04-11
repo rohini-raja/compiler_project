@@ -1,4 +1,4 @@
-# compiler_project -- Lexical Scanner & Parser (By: Rohini.R -2017103579 , RathnaSri - 2017103576)
+# Lexical Scanner & Parser (By: Rohini.R -2017103579 , RathnaSri - 2017103576)
 TOOLS USED:
 1) lex - to find tokens and lexemes
 
